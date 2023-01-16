@@ -1,16 +1,8 @@
-# demo
+# Library App 
 
-A new Flutter project.
+This is my first Flutter project.
 
-## Getting Started
+## Explanation
 
-This project is a starting point for a Flutter application.
+*In this project, I designed a mobile library interface to use the resources at my university. I didn't code this config backend part. The project includes interfaces such as login, dashboard, passwordchange. Screenshots of these interfaces are available in the project repository.*
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
